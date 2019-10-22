@@ -1,1 +1,1 @@
-# Tagalog Dictionary App
+# Tagalog Dictionary
